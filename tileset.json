@@ -1,0 +1,130 @@
+{
+	"asset" : {
+		"version" : "1.0"
+	},
+	"properties" : {
+		"beschrijving" : {},
+		"nr" : {
+			"minimum" : 1,
+			"maximum" : 1
+		},
+		"_creation_instance" : {},
+		"_clipped" : {},
+		"_copynum" : {
+			"minimum" : 0,
+			"maximum" : 4
+		},
+		"_part_number" : {},
+		"_geometry_label" : {},
+		"_vertexcount" : {},
+		"_inside_x" : {
+			"minimum" : 136545,
+			"maximum" : 136545
+		},
+		"_inside_y" : {
+			"minimum" : 455958.25,
+			"maximum" : 455958.25
+		}
+	},
+	"geometricError" : 20.35436223624645,
+	"root" : {
+		"boundingVolume" : {
+			"region" : [ 0.08932170727644426, 0.9091679864541836, 0.08932708739291327, 0.9091709642613195, 43.05, 53.75 ]
+		},
+		"geometricError" : 20.35436223624645,
+		"refine" : "REPLACE",
+		"content" : {
+			"boundingVolume" : {
+				"region" : [ 0.08932170727644426, 0.9091679864541836, 0.08932708739291327, 0.9091709642613195, 43.05, 53.75 ]
+			},
+			"uri" : "data/data6.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"region" : [ 0.08932189737571682, 0.9091694753577515, 0.08932708739291327, 0.9091709642613195, 43.05, 43.75 ]
+				},
+				"geometricError" : 0,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 0.08932189737571682, 0.9091697552166765, 0.08932708739291327, 0.9091709642613195, 43.05, 43.75 ]
+					},
+					"uri" : "data/data0.b3dm"
+				},
+				"children" : []
+			},
+			{
+				"boundingVolume" : {
+					"region" : [ 0.08932439733467874, 0.9091679864541836, 0.08932708739291327, 0.9091694753577515, 43.75, 46.65 ]
+				},
+				"geometricError" : 0,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 0.08932483291096212, 0.9091679895632804, 0.08932689559930905, 0.909169055486802, 43.75, 46.65 ]
+					},
+					"uri" : "data/data1.b3dm"
+				},
+				"children" : []
+			},
+			{
+				"boundingVolume" : {
+					"region" : [ 0.08932170727644426, 0.9091679864541836, 0.089326979719204, 0.9091699624840908, 43.55, 53.75 ]
+				},
+				"geometricError" : 20.354362353933794,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 0.08932170727644426, 0.9091679864541836, 0.089326979719204, 0.9091699624840908, 43.55, 53.75 ]
+					},
+					"uri" : "data/data5.b3dm"
+				},
+				"children" : [
+					{
+						"boundingVolume" : {
+							"region" : [ 0.08932181326088921, 0.9091687309059675, 0.089326979719204, 0.9091699624840908, 43.55, 53.75 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 0.08932181326088921, 0.9091689725784109, 0.089326979719204, 0.9091699624840908, 43.55, 53.75 ]
+							},
+							"uri" : "data/data2.b3dm"
+						},
+						"children" : []
+					},
+					{
+						"boundingVolume" : {
+							"region" : [ 0.08932170727644426, 0.9091687309059675, 0.08932305230556149, 0.9091694753577515, 43.75, 46.65 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 0.08932180821400489, 0.9091690914348778, 0.08932282972878695, 0.9091691798456203, 43.75, 46.65 ]
+							},
+							"uri" : "data/data3.b3dm"
+						},
+						"children" : []
+					},
+					{
+						"boundingVolume" : {
+							"region" : [ 0.08932170727644426, 0.9091679864541836, 0.08932689055212067, 0.909169132887312, 43.75, 46.45 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 0.08932170727644426, 0.9091679864541836, 0.08932689055212067, 0.909169132887312, 43.75, 46.45 ]
+							},
+							"uri" : "data/data4.b3dm"
+						},
+						"children" : []
+					}
+				]
+			}
+		]
+	}
+}
